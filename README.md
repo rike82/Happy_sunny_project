@@ -11,7 +11,13 @@ Project for investigating correlation between the happiness index and the number
     If it is not just the income that makes people happy, there are also social factors that determine happiness
 
   Hypothesis 3:
-    Happiness can also depend on other factors - like the amount of sunshine 
+    Happiness can also depend on other factors - like the amount of sunshine
+
+  - Primary sources of data - 
+
+https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022
+
+https://www.kaggle.com/datasets/prasertk/sunshine-duration-by-city
 
 
 
