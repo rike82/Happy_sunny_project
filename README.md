@@ -19,5 +19,7 @@ https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022
 
 https://www.kaggle.com/datasets/prasertk/sunshine-duration-by-city
 
+Link to our presentation: https://docs.google.com/presentation/d/1_1OkunkdD90OV-Tt-kdI0YqIW2El1DlBTYM8OqRGy5M
+
 
 
