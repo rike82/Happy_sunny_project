@@ -1,4 +1,4 @@
-# Happy_sunny_project
+# Dont't worry be happy
 Project for investigating correlation between the happiness index and the number of sunny days in a year by country
 
 - The World Happiness Report provides information on 147 countries and their respective happiness index scores  - responders are  asked to rate their own current lives on that 0 to 10 scale. 
